@@ -1,1 +1,1 @@
-print("hello world!")
+b = int(input("enter your room no"))
